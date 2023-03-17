@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - this is my starting point 
+ * main - this is my starting point
  * 
  * Return: i do not have any codes left to be executed
  */
