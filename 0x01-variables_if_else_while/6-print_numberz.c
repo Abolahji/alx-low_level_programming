@@ -1,6 +1,6 @@
 # include <stdio.h>
 /**
- * main - essential
+ * main - starting point
  *
  * Return: zero
  */
