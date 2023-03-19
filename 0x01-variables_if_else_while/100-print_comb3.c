@@ -20,6 +20,9 @@ putchar(blx + '0');
 if (alx + blx != 17)
 putchar(',');
 putchar(' ');
+{
+putchar('\n'
+}
 }
 }
 }
