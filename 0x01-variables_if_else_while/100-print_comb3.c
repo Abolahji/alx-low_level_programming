@@ -16,8 +16,8 @@ if (alx != blx && alx < blx)
 {
 putchar(alx + '0');
 putchar(blx + '0');
-{
 if (alx + blx != 17)
+{
 putchar(',');
 putchar(' ');
 }
