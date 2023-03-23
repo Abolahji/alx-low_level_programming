@@ -7,10 +7,8 @@
  */
 int _isalpha(int c)
 {
-while {(c > 96 && c <= 122 || (c > 64 && c <= 90)}
+if ((c > 96 && c <= 122) || (c > 64 && c <= 90))
 return (1);
-{
-while {(c < 97 && c > 122 || (c < 65 && c > 90)}
+else 
 return (0);
-}
 }
