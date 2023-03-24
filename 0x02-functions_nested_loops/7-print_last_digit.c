@@ -10,7 +10,7 @@ int loop;
 loop = nested % 10;
 if (nested < 0)
 loop = -loop;
-_putchar(loop);
+_putchar(loop + '0');
 return (loop);
 }
 
