@@ -14,7 +14,7 @@ for (nose = n ; nose <= 98 ; nose++)
 {
 printf("%d", nose);
 if (nose != 98)
-printf(",  ");
+printf(", ");
 }
 printf("\n");
 }
