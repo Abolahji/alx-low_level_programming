@@ -30,7 +30,7 @@ printf("\n ");
 }
 else if (n > 98)
 {
-for (nose = n ; nose > 98 ; nose--)
+for (nose = n ; nose >= 98 ; nose--)
 {
 printf("%d", nose);
 if (nose != 98)
